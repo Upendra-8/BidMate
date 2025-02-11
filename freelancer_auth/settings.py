@@ -137,8 +137,8 @@ SESSION_EXPIRE_AT_BROWSER_CLOSE = True
 
 
 FREELANCER_OAUTH = {
-    'CLIENT_ID': '714d6e27-8671-4692-9820-2be88ea55412 ',
-    'CLIENT_SECRET': "ac9875c29689a43e1dc8706ecdf4df60000b93295bfe7bbc3605d316742995615d3ad52eb4a8f706b611afcc2d87bca0be04e0c49975cf2a984c8cdafed5e1a8",
+    'CLIENT_ID': 'your_client_id_here',
+    'CLIENT_SECRET': "your_client_secret_here",
     'REDIRECT_URI': 'http://127.0.0.1:8000/verify-profile',
     'AUTHORIZE_URL': 'https://accounts.freelancer-sandbox.com/oauth/authorize',
     'TOKEN_URL': 'https://accounts.freelancer-sandbox.com/oauth/token',
