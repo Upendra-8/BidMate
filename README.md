@@ -33,7 +33,6 @@ Ensure you have the following installed:
 ## Setup
 1. Clone the Repository
 git clone https://github.com/yourusername/BidMate.git
-
 2. Create and Activate a Virtual Environment
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
@@ -50,17 +49,11 @@ You can use either Postman or Thunder Client to interact with the API.
 ## Contributing
 
 We welcome contributions to improve the project. To contribute:
-
 1. Fork the repository.
-
 2. Create a new branch (git checkout -b feature-branch).
-
 3. Make your changes.
-
 4. Commit your changes (git commit -am 'Add new feature').
-
 5. Push your branch (git push origin feature-branch).
-
 6. Open a Pull Request.
    
 ## Acknowledgments
